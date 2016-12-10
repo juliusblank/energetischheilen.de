@@ -1,0 +1,207 @@
+/*	CSS file for energetischheilen.de and energetisch-heilen.de
+	@author Julius Blank
+	@date 17-10-2004
+*/
+
+/*	Basic structure */
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #CCCCFF;
+    font-family: Arial, Helvetica, Sans, sans-serif;
+    color: #333399;
+}
+
+/*
+h3 {
+	color: #FFFFFF;
+}
+*/
+#header {
+    background: url( images/top_bgrnd.gif ) repeat-x;
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper {
+    /*background: #CCCCFF url( images/background.gif ) right repeat-y;*/
+}
+
+#container {
+    width: 100%;
+    /*background: #CCCCFF url( images/background.gif ) right repeat-y;*/
+    float: left;
+    margin-right: -200px;
+}
+
+#content {
+    /*background: #CCCCFF url( images/sidebar_bg.gif ) repeat-x;*/
+    margin-right: 200px;
+    margin-top: 12px;
+    margin-bottom: 25px;
+}
+
+#text {
+    padding-left: 25px;
+    padding-right: 25px;
+    text-align: justify;
+}
+
+#text h3 {
+    margin-top: 0px;
+    margin-bottom: -5px;
+}
+
+#textside {
+    padding-top: 20px;
+}
+
+td {
+    text-align: left;
+    vertical-align: top;
+}
+
+#sidebar {
+    /*background: url( images/sidebar_bg.gif ) repeat-x;*/
+    padding-top: 0;
+    margin-top: 0;
+    padding-left: 15px;
+    width: 185px;
+    float: right;
+}
+
+#footer {
+    padding-top: 5px;
+    text-align: center;
+    /*border-top: 1px solid #333399;*/
+    clear: both;
+    font-size: x-small;
+}
+
+.first {
+    margin-top: 0;
+}
+
+.last {
+    margin-bottom: 0;
+}
+
+.clearing {
+    height: 0;
+    clear: both;
+}
+
+/* Image settings */
+
+img.port {
+    float: left;
+    margin: 0 15px 15px 15px;
+}
+
+img.separator {
+    position: relative;
+    margin: 15px 15px 15px 15px;
+    left: 15em;
+}
+
+/* Table settings (Seminare) */
+
+th.month {
+    width: 100px;
+}
+
+th.date {
+    width: 200px;
+}
+
+th.course {
+    width: 160px;
+}
+
+th.location {
+    width: 200px;
+}
+
+/* Font-display settings */
+
+a {
+    color: #620062;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #CE00DE;
+}
+
+p.quote {
+    font-style: italic;
+}
+
+/* Main Navigation Menu */
+
+#navcontainer {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    border-top: 0 solid #2C3693;
+    border-bottom: 0;
+    z-index: 1;
+}
+
+#navcontainer ul {
+    list-style-type: none;
+    margin-top: -12px;
+    padding: 0;
+    position: relative;
+    z-index: 2;
+}
+
+#navcontainer li {
+    display: inline;
+    text-align: center;
+    margin: 0 8px;
+    color: #FFFFCC;
+    font-size: 12pt;
+    font-family: Arial, Helvetica, Sans, sans-serif;
+}
+
+#navcontainer li a {
+    padding: 1px 31px;
+    text-align: center;
+    color: #FFFFCC;
+    background-color: #9999FF;
+    border: 1px solid #6666CC;
+    text-decoration: none;
+}
+
+#navcontainer li a:hover {
+    border: 1px solid #FFFFCC;
+    border-top: 1px solid #FFFFCC;
+    border-bottom: 1px solid #FFFFCC;
+}
+
+#navcontainer li a#current {
+    color: #FFFFCC;
+    background-color: #2C3693;
+}
+
+.werbung {
+    margin: 20px 0 20px 0;
+	padding: 20px 20px 20px 20px;
+	border: 1px solid #FFFFFF;
+	background-color: #DDDDFF;
+}
+
+.naturgeister {
+    margin: 20px 0 20px 0;
+	padding: 20px 20px 20px 20px;
+	border: 1px solid #008020;
+	background-color: #DDDDFF;
+}
+
+#werbeUeberschrift {
+	background-color: inherit;
+	color: #0018A8;
+	font-size: 120%;
+}

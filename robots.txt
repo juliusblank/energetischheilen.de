@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /images/
+Disallow: /old/
+Disallow: /programs/
+Disallow: /didgb.php/
+Disallow: /kontakt.html/
+Disallow: /impressum/

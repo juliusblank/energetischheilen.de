@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+    <head>
+        <title>Links</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+        <meta name="Title" content="Energetisch heilen Manuela Blank" />
+        <meta name="Author" content="Manuela Blank" />
+        <meta name="Subject" content="Heilen, Energie, Einzelsitzungen, Seminare, Kontakt" />
+        <meta name="Description"
+              content="Energetisches Heilen Manuela Blank - Biographie, Heiltechniken, Seminare, Links, Kontakt" />
+        <meta name="Keywords"
+              content="manuela blank,divine intervention,lichtsprache,transformation, transformationsarbeit,soul pulling,soul-pulling,seminar,seminare,heilen,energie,spiritualität,neue zeit" />
+        <meta name="Language" content="Deutsch" />
+        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+        <meta name="robots" content="index, follow" />
+        <meta name="GOOGLEBOT" content="INDEX, FOLLOW" />
+        <link rel="stylesheet" type="text/css" href="stylesheet.css" />
+        <style type="text/css">
+        </style>
+    </head>
+
+    <body>
+
+        <div id="header">
+            <a href="index.html"><img src="images/top_links.gif" alt="Blaue Kugel" /></a>
+        </div>
+
+        <div id="wrapper">
+            <div id="container">
+                <div id="content">
+                    <div id="navcontainer">
+                        <ul>
+                            <li><a href="bio.html" title="Biographie">Biographie</a></li>
+                            <li><a href="technik.html" title="Heiltechniken">Heiltechniken</a></li>
+                            <li><a href="seminar.html" title="Seminare">Seminare</a></li>
+                            <li><a href="links.html" title="Links" id="current">Links</a></li>
+                            <li><a href="kontakt.html" title="Kontankt">Kontakt</a></li>
+                        </ul>
+                    </div>
+                    <div id="text">
+                        <a href="http://www.schamanen-trommel.de" target="_blank">Die Schamanentrommel</a><br>
+                        Der Onlineshop für handgearbeitete Schamanentrommeln<br><br />
+                        <a href="http://www.spielraum-finning.de" target="_blank">Spielraum Finning</a><br />
+                        Seminarhaus Spielraum - Tanz, Musikuntericht, Entspannung, Seminare<br /><br />
+                        <a href="http://www.seminarhaus-ohlenbusch.de" target="_blank">Seminarhaus Ohlenbusch</a><br />
+                        Seminarhaus, Ferienhaus &amp; Bildungszentrum für alternative Lehr- und Heilmethoden<br /><br />
+                        <a href="http://www.cpellegrini.de" target="_blank">Corinne Michèle Pellegrini</a><br />
+                        Praxis für Körperbewusstsein <br /><br />
+                        <p>Wenn Sie Interesse haben, an dieser Stelle einen Link auf Ihre Seite zu platzieren, so wenden
+                           Sie sich bitte direkt an Manuela Blank (siehe <a href="kontakt.html">Kontakt</a>).</p>
+                    </div>
+                </div>
+            </div>
+
+            <div id="sidebar">
+                <div id="textside">
+                </div>
+            </div>
+            <div class="clearing">&nbsp;
+            </div>
+        </div>
+
+        <div id="footer">
+            Copyright © 2004 - 2011 Manuela Blank - <a href="impressum.html">Impressum</a><br />
+        </div>
+
+    </body>
+</html>
+
+	
